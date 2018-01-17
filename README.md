@@ -1,5 +1,7 @@
 A Python project with a single script to check if your letter grades have been assigned on your latest semester,
-for Bogazici University students.
+for Boğaziçi University students.
+
+I had developed this application for my own convenience by the end of my 7th semester at the Computer Engineering department.
 
 ## Installation of the required packages
 
